@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StoryScene>
+<Node time="2015-02-26" place="新郑" lon="-75.300238" lat="40.109584" hgt="0" thumb="img/foot.png">
+	<Story img="images/s1.jpg" desc="asdfsadf">
+	</Story>
+	<Story img="images/s2.jpg" desc="何以笙箫默">
+	</Story>
+	<Story img="images/s1.jpg" desc="asdfsadf">
+	</Story>
+	<Story img="images/s2.jpg" desc="何以笙箫默">
+	</Story>
+	<Story img="images/s1.jpg" desc="asdfsadf">
+	</Story>
+	<Story img="images/s2.jpg" desc="何以笙箫默">
+	</Story>
+	<Story img="images/s1.jpg" desc="asdfsadf">
+	</Story>
+	<Story img="images/s2.jpg" desc="何以笙箫默">
+	</Story>
+</Node>
+<Node time="2015-02-27" place="新郑" lon="123.5" lat="12" hgt="0" thumb="img/foot.png">
+	<Story img="images/s1.jpg" desc="asdfsadf">
+	</Story>
+</Node>
+<Node time="2015-02-28" place="新郑" lon="123.5" lat="12.2" hgt="0" thumb="img/foot.png">
+	<Story img="images/s1.jpg" desc="asdfsadf">
+	</Story>
+</Node>
+<Node time="2015-03-01" place="北京" lon="123.2" lat="11.3" hgt="0" thumb="img/foot.png">
+	<Story img="images/s1.jpg" desc="asdfsadf">
+	</Story>
+</Node>
+<Node time="2015-03-02" place="北京" lon="123.2" lat="11.3" hgt="0" thumb="img/foot.png">
+	<Story img="images/s1.jpg" desc="森林公园-天元 我爱上了你~">
+	</Story>
+</Node>
+
+</StoryScene>
