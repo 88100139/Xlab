@@ -48,6 +48,7 @@
               }),
             scene3DOnly:true,
             sceneModePicker:false,
+            navigationHelpButton:false,
             //图片选择false
             baseLayerPicker:false,
             infoBox:true,
@@ -103,6 +104,8 @@
      
       //解析完成创建自动播放按钮
       createPlayBtn();
+      //默认自动播放
+	  document.getElementById('playBtn').click();
     }
 
     function story(obj){
@@ -156,6 +159,7 @@
         //创建工具条按钮
           var button = document.createElement('button');
             button.type = 'button';
+            button.id = "playBtn";
             button.className = 'cesium-button';
             button.onclick = function() {
                console.log('相机平移函数');
@@ -181,7 +185,7 @@
                     playIdx = 0;
                    }
 
-                },10000);
+                },20000);
               }else if(button.textContent == "停止"){
                 button.textContent = "自动播放";
                 //停止
